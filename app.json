@@ -1,0 +1,27 @@
+
+{
+    "name": "𝐈𝐓'𝐬𝐆𝐎𝐋𝐔.™®❤️",
+    "keywords": [
+        "telegram bot",
+        "pyrogram"
+    ],
+    "env": {
+        "API_ID":{
+            "description": "Get your telegram API ID from https://my.telegram.org",
+            "value":"2695501"
+        },
+        "API_HASH":{
+            "description":"Get your telegram API HASH from https://my.telegram.org",
+		    "value":"9a544068ea55f54ca7725245d0e8f0f9"
+        },
+        "BOT_TOKEN":{
+            "description":"Get from BotFather",
+            "value":"7876227653:AAEl1CpmAk5zYK4qEaYwv3vr1CyYW4cyLUY"
+        },
+        "AUTH_USERS":{
+            "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 8049118708,8049118708",
+            "value":"8049118708"
+        }
+    }
+
+}
